@@ -36,7 +36,7 @@ We use a dataset of the client’s real estate database.
 
 
 ### Results:
-[Uploaded working project on GitHub.](https://github.com/SegaGLm/random_projects/PVT_realty_estate_data_analysis/realty_estate_data_analysis.ipynb) 
+[Uploaded working project on GitHub.](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/realty_estate_data_analysis.ipynb) 
 
 :arrow_up:[to table of contents](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Table-of-contents)
 
