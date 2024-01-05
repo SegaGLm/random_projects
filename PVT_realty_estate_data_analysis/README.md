@@ -1,4 +1,4 @@
-# Project 1. Job analysis HeadHunter
+# PVT_realty_estate_data_analysis
 
 ## Table of contents  
 [1. Project description](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Table-of-contents)  
