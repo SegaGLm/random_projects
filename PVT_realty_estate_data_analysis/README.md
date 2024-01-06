@@ -1,12 +1,12 @@
 # PVT_realty_estate_data_analysis
 
 ## Table of contents  
-[1. Project description](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Table-of-contents)  
-[2. What case are we solving?](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#What-case-are-we-solving)  
-[3. Brief information about the data](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Brief-information-about-the-data)  
-[4. Stages of work on the project](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Stages-of-work-on-the-project)  
-[5. Result](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Results)    
-[6. Сonclusions](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Conclusions) 
+[1. Project description](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/README.md#Table-of-contents)  
+[2. What case are we solving?](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/README.md#What-case-are-we-solving)  
+[3. Brief information about the data](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/README.md#Brief-information-about-the-data)  
+[4. Stages of work on the project](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/README.md#Stages-of-work-on-the-project)  
+[5. Result](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/README.md#Results)    
+[6. Сonclusions](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/README.md#Conclusions) 
 
 ### Description of the project
 It is necessary to prepare new advertising campaigns in Yandex Direct for testing. Hypothesis - By indicating office rental rates in the title of advertisements, it will be possible to reduce the number of clicks from non-target users who are not ready to rent offices at current rates, and therefore it will be possible to optimize the advertising budget. It is necessary to determine the average rental rates broken down by object class according to the structure of the Yandex Direct advertising account.
