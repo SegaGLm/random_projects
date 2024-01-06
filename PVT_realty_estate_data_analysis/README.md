@@ -22,7 +22,7 @@ Process data and determine weighted office rental rates for writing Yandex Direc
 ### Brief information about the data
 We use a dataset of the client’s real estate database.
   
-:arrow_up:[to table of contents](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Table-of-contents)
+:arrow_up:[to table of contents](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/README.md#Table-of-contents)
 
 
 ### Stages of work on the project
@@ -32,19 +32,19 @@ We use a dataset of the client’s real estate database.
 - Comparison of rental rates from the dataset with rental rates of objects on competitors’ websites
 - Uploading the result to GitHub
 
-:arrow_up:[to table of contents](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Table-of-contents)
+:arrow_up:[to table of contents](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/README.md#Table-of-contents)
 
 
 ### Results:
 [Uploaded working project on GitHub.](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/realty_estate_data_analysis.ipynb) 
 
-:arrow_up:[to table of contents](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Table-of-contents)
+:arrow_up:[to table of contents](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/README.md#Table-of-contents)
 
 
 ### Conclusions:
 We were able to determine the weighted bid values ​​that will be used to write ads for Yandex Direct advertising campaigns
 
-:arrow_up:[to table of contents](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Table-of-contents)
+:arrow_up:[to table of contents](https://github.com/SegaGLm/random_projects/blob/main/PVT_realty_estate_data_analysis/README.md#Table-of-contents)
 
 
 If the information on this project seems interesting or useful to you, then I will be very grateful to you if you mark the repository and profile ⭐️⭐️⭐️-dami
